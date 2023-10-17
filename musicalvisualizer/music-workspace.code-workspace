@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/Music-Visualization--bubble--master"
+		}
+	],
+	"settings": {
+		"githubPullRequests.ignoredPullRequestBranches": [
+			"master"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "musicalvisualizer"
+	}
+}
